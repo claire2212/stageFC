@@ -1,0 +1,694 @@
+<aw_check_availability>
+                                <state_product_type id_product_type="LCH06"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="93.330000000000000"
+                                    id_company="1"
+                                    wording= "LOCATION SEMAINE CHALET 6 PERSONNES" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="LMH06"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="450.000000000000000"
+                                    id_company="1"
+                                    wording= "LOCATION SEMAINE MOBILHOME 6 PERSONNES" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="LMH04"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="420.000000000000000"
+                                    id_company="1"
+                                    wording= "LOCATION SEMAINE MOBILHOME 4 PERSONNES" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="LMH08"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="570.000000000000000"
+                                    id_company="1"
+                                    wording= "LOCATION SEMAINE MOBILHOME LUXE 8 PERSONNES" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="E"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="16.500000000000000"
+                                    id_company="1"
+                                    wording= "FORFAIT EMPLACEMENT 2 PERSONNES" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="LMHS4"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="320.000000000000000"
+                                    id_company="1"
+                                    wording= "LOCATION SEMAINE BAMBI 4 PERSONNES" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="LT06"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="350.000000000000000"
+                                    id_company="1"
+                                    wording= "LOCATION SEMAINE TENTE TRIGANO" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="EEE"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="20.900000000000000"
+                                    id_company="1"
+                                    wording= "FORFAIT EMPLACEMENT CONFORT (6A + EAU)" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="EEEE"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="21.400000000000000"
+                                    id_company="1"
+                                    wording= "FORFAIT EMPLACEMENT GRAND CONFORT (6A +EAU +EGOUT)" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="LCH06"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="93.330000000000000"
+                                    id_company="1"
+                                    wording= "LOCATION SEMAINE CHALET 6 PERSONNES" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="LCH04"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="504.000000000000000"
+                                    id_company="1"
+                                    wording= "LOCATION SEMAINE CHALET 4 PERSONNES" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="LMH06"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="450.000000000000000"
+                                    id_company="1"
+                                    wording= "LOCATION SEMAINE MOBILHOME 6 PERSONNES" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="LMH04"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="420.000000000000000"
+                                    id_company="1"
+                                    wording= "LOCATION SEMAINE MOBILHOME 4 PERSONNES" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="LMH08"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="570.000000000000000"
+                                    id_company="1"
+                                    wording= "LOCATION SEMAINE MOBILHOME LUXE 8 PERSONNES" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="E"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="16.500000000000000"
+                                    id_company="1"
+                                    wording= "FORFAIT EMPLACEMENT 2 PERSONNES" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="LMHS4"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="360.000000000000000"
+                                    id_company="1"
+                                    wording= "LOCATION SEMAINE BAMBI 4 PERSONNES" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="LT06"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="350.000000000000000"
+                                    id_company="1"
+                                    wording= "LOCATION SEMAINE TENTE TRIGANO" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Bunga"
+                                    arrival_date="2017-07-01"
+                                    nights_number= "7"
+                                    price="28.000000000000000"
+                                    id_company="64"
+                                    wording= "Canada 5 pers nuitée ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="00"
+                                    arrival_date="2017-07-01"
+                                    nights_number= "7"
+                                    price="14.000000000000000"
+                                    id_company="64"
+                                    wording= "Forfait emplacement 2pers 1vehic electricite 10Amp" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Ch1"
+                                    arrival_date="2017-07-01"
+                                    nights_number= "7"
+                                    price="28.000000000000000"
+                                    id_company="64"
+                                    wording= "C Trianon 2pers nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Ch3"
+                                    arrival_date="2017-07-01"
+                                    nights_number= "7"
+                                    price="36.000000000000000"
+                                    id_company="64"
+                                    wording= "C Cottage 6pers nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Ch2"
+                                    arrival_date="2017-07-01"
+                                    nights_number= "7"
+                                    price="36.000000000000000"
+                                    id_company="64"
+                                    wording= "C Club 5pers avec TV nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Ch3tv"
+                                    arrival_date="2017-07-01"
+                                    nights_number= "7"
+                                    price="38.000000000000000"
+                                    id_company="64"
+                                    wording= "C Cottage 6pers avec TV nuitee ou semaine avec sol" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh1"
+                                    arrival_date="2017-07-01"
+                                    nights_number= "7"
+                                    price="29.000000000000000"
+                                    id_company="64"
+                                    wording= "M Lodge 2 pers nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh1Tv"
+                                    arrival_date="2017-07-01"
+                                    nights_number= "7"
+                                    price="32.000000000000000"
+                                    id_company="64"
+                                    wording= "M Lodge 2 pers avec TV nuitee semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh3"
+                                    arrival_date="2017-07-01"
+                                    nights_number= "7"
+                                    price="32.000000000000000"
+                                    id_company="64"
+                                    wording= "Mh Modulo 4 pers, nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh3Tv"
+                                    arrival_date="2017-07-01"
+                                    nights_number= "7"
+                                    price="34.000000000000000"
+                                    id_company="64"
+                                    wording= "Mh Modulo 4 pers avec TV, nuitee semaine avec sold" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh2"
+                                    arrival_date="2017-07-01"
+                                    nights_number= "7"
+                                    price="32.000000000000000"
+                                    id_company="64"
+                                    wording= "M Grand atlas 4-5pers nuitee ou semaine avec sold" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Tente"
+                                    arrival_date="2017-07-01"
+                                    nights_number= "7"
+                                    price="22.000000000000000"
+                                    id_company="64"
+                                    wording= "Tente Tot'prête 4 pers nuitée ou semaine avec sold" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="R206"
+                                    arrival_date="2017-07-01"
+                                    nights_number= "7"
+                                    price="36.000000000000000"
+                                    id_company="64"
+                                    wording= "C Club 5pers avec TV nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="R206"
+                                    arrival_date="2017-07-01"
+                                    nights_number= "7"
+                                    price="36.000000000000000"
+                                    id_company="64"
+                                    wording= "C Club 5pers avec TV nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh8"
+                                    arrival_date="2017-07-01"
+                                    nights_number= "7"
+                                    price="42.000000000000000"
+                                    id_company="64"
+                                    wording= "M Nirvana 6/8 pers nuitée ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh4A"
+                                    arrival_date="2017-07-01"
+                                    nights_number= "7"
+                                    price="34.000000000000000"
+                                    id_company="64"
+                                    wording= "M Loft A 4pers nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh4B"
+                                    arrival_date="2017-07-01"
+                                    nights_number= "7"
+                                    price="34.000000000000000"
+                                    id_company="64"
+                                    wording= "M Loft B 4/6 pers nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh7"
+                                    arrival_date="2017-07-01"
+                                    nights_number= "7"
+                                    price="35.000000000000000"
+                                    id_company="64"
+                                    wording= "M Trigano 6pers nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh5"
+                                    arrival_date="2017-07-01"
+                                    nights_number= "7"
+                                    price="39.000000000000000"
+                                    id_company="64"
+                                    wording= "M Super Mercure 4/6 pers nuitée ou semai avec sold" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh6"
+                                    arrival_date="2017-07-01"
+                                    nights_number= "7"
+                                    price="41.000000000000000"
+                                    id_company="64"
+                                    wording= "M Santa Fé 4/6 pers nuitée ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Bunga"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="378.000000000000000"
+                                    id_company="64"
+                                    wording= "Canada 5 pers nuitée ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="00"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="18.800000000000000"
+                                    id_company="64"
+                                    wording= "Forfait emplacement 2pers 1vehic electricite 10Amp" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Ch1"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="371.000000000000000"
+                                    id_company="64"
+                                    wording= "C Trianon 2pers nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Ch3"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="483.000000000000000"
+                                    id_company="64"
+                                    wording= "C Cottage 6pers nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Ch2"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="483.000000000000000"
+                                    id_company="64"
+                                    wording= "C Club 5pers avec TV nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Ch3tv"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="511.000000000000000"
+                                    id_company="64"
+                                    wording= "C Cottage 6pers avec TV nuitee ou semaine avec sol" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh1"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="392.000000000000000"
+                                    id_company="64"
+                                    wording= "M Lodge 2 pers nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh1Tv"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="420.000000000000000"
+                                    id_company="64"
+                                    wording= "M Lodge 2 pers avec TV nuitee semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh3"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="427.000000000000000"
+                                    id_company="64"
+                                    wording= "Mh Modulo 4 pers, nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh3Tv"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="455.000000000000000"
+                                    id_company="64"
+                                    wording= "Mh Modulo 4 pers avec TV, nuitee semaine avec sold" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh2"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="420.000000000000000"
+                                    id_company="64"
+                                    wording= "M Grand atlas 4-5pers nuitee ou semaine avec sold" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Tente"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="266.000000000000000"
+                                    id_company="64"
+                                    wording= "Tente Tot'prête 4 pers nuitée ou semaine avec sold" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="R206"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="483.000000000000000"
+                                    id_company="64"
+                                    wording= "C Club 5pers avec TV nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="R206"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="483.000000000000000"
+                                    id_company="64"
+                                    wording= "C Club 5pers avec TV nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh8"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="546.000000000000000"
+                                    id_company="64"
+                                    wording= "M Nirvana 6/8 pers nuitée ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh4A"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="462.000000000000000"
+                                    id_company="64"
+                                    wording= "M Loft A 4pers nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh4B"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="462.000000000000000"
+                                    id_company="64"
+                                    wording= "M Loft B 4/6 pers nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh7"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="476.000000000000000"
+                                    id_company="64"
+                                    wording= "M Trigano 6pers nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh5"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="511.000000000000000"
+                                    id_company="64"
+                                    wording= "M Super Mercure 4/6 pers nuitée ou semai avec sold" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh6"
+                                    arrival_date="2017-07-08"
+                                    nights_number= "7"
+                                    price="539.000000000000000"
+                                    id_company="64"
+                                    wording= "M Santa Fé 4/6 pers nuitée ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Bunga"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="406.000000000000000"
+                                    id_company="64"
+                                    wording= "Canada 5 pers nuitée ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="00"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="20.200000000000000"
+                                    id_company="64"
+                                    wording= "Forfait emplacement 2pers 1vehic electricite 10Amp" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Ch1"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="399.000000000000000"
+                                    id_company="64"
+                                    wording= "C Trianon 2pers nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Ch3"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="518.000000000000000"
+                                    id_company="64"
+                                    wording= "C Cottage 6pers nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Ch2"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="518.000000000000000"
+                                    id_company="64"
+                                    wording= "C Club 5pers avec TV nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Ch3tv"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="546.000000000000000"
+                                    id_company="64"
+                                    wording= "C Cottage 6pers avec TV nuitee ou semaine avec sol" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh1"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="420.000000000000000"
+                                    id_company="64"
+                                    wording= "M Lodge 2 pers nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh1Tv"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="455.000000000000000"
+                                    id_company="64"
+                                    wording= "M Lodge 2 pers avec TV nuitee semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh3"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="462.000000000000000"
+                                    id_company="64"
+                                    wording= "Mh Modulo 4 pers, nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh3Tv"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="490.000000000000000"
+                                    id_company="64"
+                                    wording= "Mh Modulo 4 pers avec TV, nuitee semaine avec sold" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh2"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="455.000000000000000"
+                                    id_company="64"
+                                    wording= "M Grand atlas 4-5pers nuitee ou semaine avec sold" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Tente"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="280.000000000000000"
+                                    id_company="64"
+                                    wording= "Tente Tot'prête 4 pers nuitée ou semaine avec sold" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="R206"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="518.000000000000000"
+                                    id_company="64"
+                                    wording= "C Club 5pers avec TV nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="R206"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="518.000000000000000"
+                                    id_company="64"
+                                    wording= "C Club 5pers avec TV nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh8"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="574.000000000000000"
+                                    id_company="64"
+                                    wording= "M Nirvana 6/8 pers nuitée ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh4A"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="497.000000000000000"
+                                    id_company="64"
+                                    wording= "M Loft A 4pers nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh4B"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="497.000000000000000"
+                                    id_company="64"
+                                    wording= "M Loft B 4/6 pers nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh7"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="511.000000000000000"
+                                    id_company="64"
+                                    wording= "M Trigano 6pers nuitee ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh5"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="539.000000000000000"
+                                    id_company="64"
+                                    wording= "M Super Mercure 4/6 pers nuitée ou semai avec sold" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability><aw_check_availability>
+                                <state_product_type id_product_type="Mh6"
+                                    arrival_date="2017-07-15"
+                                    nights_number= "7"
+                                    price="567.000000000000000"
+                                    id_company="64"
+                                    wording= "M Santa Fé 4/6 pers nuitée ou semaine avec solde" >
+                                TRUE
+                                </state_product_type>
+                            </aw_check_availability>
